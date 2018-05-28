@@ -35,3 +35,11 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# jupyter notebook related #
+.ipynb_checkpoints
+.cache/matplotlib
+.ipython
+.jupyter
+.local/share/jupyter
+.bash_history
